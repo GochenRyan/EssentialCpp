@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1591205591 source:f:\testcode\essentialcpp1.8\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<stdlib.h>
+

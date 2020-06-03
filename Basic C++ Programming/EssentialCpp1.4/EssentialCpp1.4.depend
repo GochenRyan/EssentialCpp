@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1591010607 source:f:\testcode\essentialcpp1.1\main.cpp
+	<iostream>
+	<string>
+
+1591010607 source:f:\testcode\essentialcpp1.4\main.cpp
+	<iostream>
+	<string>
+

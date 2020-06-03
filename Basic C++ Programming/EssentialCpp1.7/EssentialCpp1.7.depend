@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591197739 source:f:\testcode\essentialcpp1.7\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+
